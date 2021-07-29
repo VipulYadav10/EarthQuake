@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Earth Quake</string>
+    <string name="title_activity_maps">Earth Quake</string>
+    <string name="more_info">More Info...</string>
+    <string name="magnitude">magnitude</string>
+    <string name="hello">Hello</string>
+    <string name="more_information">More Information</string>
+    <string name="surrounding_cities">Surrounding Cities</string>
+    <string name="close">Close</string>
+    <string name="show_list">Show List</string>
+</resources>
